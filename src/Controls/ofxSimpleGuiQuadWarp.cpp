@@ -95,6 +95,7 @@ void ofxSimpleGuiQuadWarp::onDragOutside(int x, int y, int button) {
 
 //---------------------------------------------------------------------
 void ofxSimpleGuiQuadWarp::draw(float x, float y) {
+	/*
 	setPosition(x, y);
 	glPushMatrix();
 	glTranslatef(x, y, 0);
@@ -126,4 +127,5 @@ void ofxSimpleGuiQuadWarp::draw(float x, float y) {
 	ofDisableAlphaBlending();
 	
 	glPopMatrix();
+	*/
 }
