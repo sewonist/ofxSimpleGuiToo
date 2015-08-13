@@ -99,7 +99,7 @@ void ofxSimpleGuiColorPicker::update() {
 
 //--------------------------------------------------------------------- draw
 void ofxSimpleGuiColorPicker::draw(float x, float y) {
-	
+	/*
 //	enabled = true;
 	
 	//update postion of gui object
@@ -156,4 +156,5 @@ void ofxSimpleGuiColorPicker::draw(float x, float y) {
 	ofDrawBitmapString(s, 3, startY + 14);
 	ofDisableAlphaBlending();
 	glPopMatrix();
+	*/
 }
